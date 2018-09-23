@@ -1867,25 +1867,25 @@ body#contact .l-gnav__nav li:nth-of-type(4) a:after {
 
 @media screen and (min-width: 769px) {
   .p-top-mv__sliderChild--1 div {
-    background-image: url(/assets/img/top/mv_photo.jpg);
+    background-image: url(https://rihoritsuko.github.io/samplehp/image/mv_photo.jpg);
   }
 }
 
 @media screen and (max-width: 768px) {
   .p-top-mv__sliderChild--1 div {
-    background-image: url(/assets/img/top/mv_photo_sp.jpg);
+    background-image: url(https://rihoritsuko.github.io/samplehp/image/mv_photo.jpg);
   }
 }
 
 @media screen and (min-width: 769px) {
   .p-top-mv__sliderChild--2 div {
-    background-image: url(/assets/img/top/mv_photo2.jpg);
+    background-image: url(https://rihoritsuko.github.io/samplehp/image/mv_photo2.jpg);
   }
 }
 
 @media screen and (max-width: 768px) {
   .p-top-mv__sliderChild--2 div {
-    background-image: url(/assets/img/top/mv_photo2_sp.jpg);
+    background-image: url(https://rihoritsuko.github.io/samplehp/image/mv_photo.jpg);
   }
 }
 
